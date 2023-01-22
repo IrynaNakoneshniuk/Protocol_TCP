@@ -1,0 +1,15 @@
+C:\Users\ZbooK\source\repos\Server_TCP\bin\Debug\net6.0\Server_TCP.exe
+C:\Users\ZbooK\source\repos\Server_TCP\bin\Debug\net6.0\Server_TCP.deps.json
+C:\Users\ZbooK\source\repos\Server_TCP\bin\Debug\net6.0\Server_TCP.runtimeconfig.json
+C:\Users\ZbooK\source\repos\Server_TCP\bin\Debug\net6.0\Server_TCP.dll
+C:\Users\ZbooK\source\repos\Server_TCP\bin\Debug\net6.0\Server_TCP.pdb
+C:\Users\ZbooK\source\repos\Server_TCP\obj\Debug\net6.0\Server_TCP.csproj.AssemblyReference.cache
+C:\Users\ZbooK\source\repos\Server_TCP\obj\Debug\net6.0\Server_TCP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZbooK\source\repos\Server_TCP\obj\Debug\net6.0\Server_TCP.AssemblyInfoInputs.cache
+C:\Users\ZbooK\source\repos\Server_TCP\obj\Debug\net6.0\Server_TCP.AssemblyInfo.cs
+C:\Users\ZbooK\source\repos\Server_TCP\obj\Debug\net6.0\Server_TCP.csproj.CoreCompileInputs.cache
+C:\Users\ZbooK\source\repos\Server_TCP\obj\Debug\net6.0\Server_TCP.dll
+C:\Users\ZbooK\source\repos\Server_TCP\obj\Debug\net6.0\refint\Server_TCP.dll
+C:\Users\ZbooK\source\repos\Server_TCP\obj\Debug\net6.0\Server_TCP.pdb
+C:\Users\ZbooK\source\repos\Server_TCP\obj\Debug\net6.0\Server_TCP.genruntimeconfig.cache
+C:\Users\ZbooK\source\repos\Server_TCP\obj\Debug\net6.0\ref\Server_TCP.dll
